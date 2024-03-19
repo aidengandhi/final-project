@@ -7,7 +7,7 @@ body {
   color: #3f3f3f;
   font-size: 16px;
   line-height: 24px;
-  background-image: url("/assets/space_background.jpeg");
+  background-image: url("https://aiden-coding-project-upwork.vercel.app/assets/space_background.jpeg");
 
   background-repeat: repeat;
 }
