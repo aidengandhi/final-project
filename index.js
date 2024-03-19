@@ -1,3 +1,4 @@
+
 function loadContent(page) {
   console.log("Loading content for page:", page);
   var content = document.getElementById("content");
